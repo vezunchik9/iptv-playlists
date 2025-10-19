@@ -1,29 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ТВ ЦЕНТР - МоскваМаугли. Городские джунглиОсталось 31 мин" tvg-logo="" group-title="региональные",ТВ ЦЕНТР - МоскваМаугли. Городские джунглиОсталось 31 мин
+#EXTINF:-1 tvg-name="ТВ ЦЕНТР - Москва" tvg-logo="" group-title="региональные",ТВ ЦЕНТР - Москва
 https://limehd.tv/channel/tvc
 #EXTINF:-1 tvg-name="ТВ ЦЕНТР - Москва" tvg-logo="" group-title="региональные",ТВ ЦЕНТР - Москва
 https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/129/logo_256_1655445000.png
-#EXTINF:-1 tvg-name="Ямал-регион (Салехард)" tvg-logo="" group-title="региональные",Ямал-регион (Салехард)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10190/logo_256_1660810138.png
-#EXTINF:-1 tvg-name="Тверской проспект - регион ( Тверь )" tvg-logo="" group-title="региональные",Тверской проспект - регион ( Тверь )
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10347/logo_256.png
-#EXTINF:-1 tvg-name="41 регион (Петропавловск-Камчатский)" tvg-logo="" group-title="региональные",41 регион (Петропавловск-Камчатский)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10478/logo_256_1660891642.png
-#EXTINF:-1 tvg-name="ТЕО ТВ (Москва)" tvg-logo="" group-title="региональные",ТЕО ТВ (Москва)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10802/logo_256_1660892200.png
-#EXTINF:-1 tvg-name="Евпатория 24 (Республика Крым)" tvg-logo="" group-title="региональные",Евпатория 24 (Республика Крым)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14071/logo_256_1673861583.png
-#EXTINF:-1 tvg-name="Керчь 24 (Республика Крым)" tvg-logo="" group-title="региональные",Керчь 24 (Республика Крым)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14078/logo_256_1673861597.png
-#EXTINF:-1 tvg-name="Ялта 24 (Республика Крым)" tvg-logo="" group-title="региональные",Ялта 24 (Республика Крым)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14085/logo_256_1673861753.png
-#EXTINF:-1 tvg-name="Легендарный 24 (Республика Крым г.Севастополь)" tvg-logo="" group-title="региональные",Легендарный 24 (Республика Крым г.Севастополь)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14099/logo_256_1673861613.png
-#EXTINF:-1 tvg-name="Симферополь 24 (Республика Крым)" tvg-logo="" group-title="региональные",Симферополь 24 (Республика Крым)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/14106/logo_256_1673861735.png
-#EXTINF:-1 tvg-name="25 регион (Владивосток)" tvg-logo="" group-title="региональные",25 регион (Владивосток)
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/29023/logo_256_1730206378.png
-#EXTINF:-1 tvg-name="Москва 24" tvg-logo="" group-title="региональные",Москва 24
-https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10185/logo_256_1658736921.png
 #EXTINF:-1 tvg-name="ТВ ЦЕНТР - Москва" tvg-logo="" group-title="региональные",ТВ ЦЕНТР - Москва
 https://litehd.tv/channel/tvc
